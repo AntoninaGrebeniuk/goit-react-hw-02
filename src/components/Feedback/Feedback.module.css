@@ -1,0 +1,16 @@
+.list {
+}
+
+.item {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  font-size: 32px;
+}
+.text {
+  /* width: 180px; */
+  margin-right: 15px;
+}
+
+.span {
+}

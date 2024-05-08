@@ -9,6 +9,7 @@
 }
 
 body {
+  font-family: 'Great Vibes', cursive;
   color: #2a2a2a;
   background-image: url('./image/bg.png');
   background-repeat: no-repeat;
